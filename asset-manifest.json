@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WeCare/static/css/main.1fe0ec0f.css",
+    "main.js": "/WeCare/static/js/main.1744792b.js",
+    "static/media/bg2.png": "/WeCare/static/media/bg2.73d6661018a86a40986a.png",
+    "static/media/bg101.jpg": "/WeCare/static/media/bg101.1ef112f4b7581b6a661a.jpg",
+    "static/media/plant-a-tree.png": "/WeCare/static/media/plant-a-tree.68b1bb581323e70d7916.png",
+    "static/media/donation1.png": "/WeCare/static/media/donation1.f8a03aa358be45910cc4.png",
+    "static/media/donation2.png": "/WeCare/static/media/donation2.4d245b9987844f29ba17.png",
+    "static/media/donation3.png": "/WeCare/static/media/donation3.1a26f01f5f9941aaaf1d.png",
+    "index.html": "/WeCare/index.html",
+    "main.1fe0ec0f.css.map": "/WeCare/static/css/main.1fe0ec0f.css.map",
+    "main.1744792b.js.map": "/WeCare/static/js/main.1744792b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fe0ec0f.css",
+    "static/js/main.1744792b.js"
+  ]
+}
